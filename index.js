@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing a game🕵🏻‍♂️ made by @i_amsneha"];
+const statusMessages = ["SkyWings Support - Listening to your requests"];
 
 
 let currentIndex = 0;
